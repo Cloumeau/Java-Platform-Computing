@@ -1,0 +1,9 @@
+Lab 8
+
+	The code beings by declaring instance variables such as JLabel label and Jpanel panel. 
+    We then use the Swing5 constructor so we can have createComponents and addListenertoButton.
+    Next we add a private class to contain the components. 
+    We then decalred the image icon and set all of our insatnce variables to the Jpanel.  
+    I wrote the labels and implmented a radio button to pull up the image. 
+    We then added everything to the panel.
+    We then used the actionListener to write code for when the button was clicked.
